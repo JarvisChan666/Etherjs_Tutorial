@@ -1,4 +1,12 @@
 {
+  "name": "etherjs_tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial project using ethers.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start_1": "node src/1_helloVitalik.js"
+  },
   "dependencies": {
     "ethers": "^6.13.0"
   }
